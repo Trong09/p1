@@ -20,7 +20,7 @@
                     <?php require ("quote.php"); ?>
                 </div>
             <div class="box">
-                <img src="./img/photoP1.jpg" alt="My Dog">
+                <img src="./img/photop1.jpg" alt="My Dog">
             </div>
             <div class="box">
                 <h3>About me:</h3>
